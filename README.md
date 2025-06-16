@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goodluckdevelop
 - 👀 I’m interested in Anime And Video Games 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React / Next
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email
 - 😄 Pronouns: He/Him
